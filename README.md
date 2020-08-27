@@ -1,1 +1,3 @@
 # hw-02-responsiveness-portfolio
+
+Jada, popcorn enthusiast and Trader Joe’s aficionado, is a beginner programmer from Paterson, New Jersey. Shr curently resides in Atlanta Georgia. found her love for kickboxing shortly after joining Vesta Movement as a member. After many long hours of training and coaching, she was hand selected to become a kickboxing trainer! Jada enjoys cooking, roller skating, and shopping online....maybe a little bit too much. You can often find Jada at Vesta joking around in the lobby, dancing her way through class, or teaching some killer combos! She’s excited to have you join this amazing community!
