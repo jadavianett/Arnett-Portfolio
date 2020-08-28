@@ -1,9 +1,28 @@
 .bg-light {
-    background-color: #30bbbb !important;
+  background-color: #30bbbb !important;
 }
 
 body {
-    background-image: url(../images/background.png);
-    background-color: #cccccc;
-   }
-.row{padding-top: 40px;}
+  background-image: url(../images/background.png);
+  background-color: #cccccc;
+}
+.row {
+  padding-top: 40px;
+}
+
+.img {
+  height: 200px;
+  width: 200px;
+}
+
+h1 {
+  color: #30bbbb;
+  font-family: "Playfair Display", serif;
+}
+
+.navbar-brand {
+  font-family: "Playfair Display", serif;
+  font-size: 34px;
+ 
+}
+ 
