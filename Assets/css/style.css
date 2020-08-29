@@ -40,9 +40,12 @@ h1 {
   font-size: 34px;
 }
 
-.footer {
-  position: sticky; 
+/* footer styling */
+.footer-copyright { 
   height: 50px;
-  background-color: white;
+  border-top: solid 5px #30bbbb;
+  min-height: 3vh;
+  max-height: 6vh;
+  background-color: rgb(90, 88, 88);
 }
  
