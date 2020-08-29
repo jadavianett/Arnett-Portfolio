@@ -14,6 +14,11 @@ body {
   height: 200px;
   width: 200px;
 }
+.btn-primary {
+  color: #fff;
+  background-color: #30bbbb;
+  border-color: #30bbbb;
+}
 
 h1 {
   color: #30bbbb;
