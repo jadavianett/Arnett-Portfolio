@@ -1,32 +1,48 @@
+
+/* background color for nav bar */
 .bg-light {
   background-color: #30bbbb !important;
 }
 
+/* image for site background */
 body {
   background-image: url(../Images/background.png);
   background-color: #cccccc;
 }
+
+/* padding to put space between content card and nav bar */
 .row {
   padding-top: 40px;
 }
 
+/* size for about me image */
 .img {
   height: 200px;
   width: 200px;
 }
+
+/* changes styling of button to match site theme */
 .btn-primary {
   color: #fff;
   background-color: #30bbbb;
   border-color: #30bbbb;
 }
 
+/* update heading color and font */
 h1 {
   color: #30bbbb;
   font-family: "Playfair Display", serif;
 }
 
+/* styling for navbar */
 .navbar-brand {
   font-family: "Playfair Display", serif;
   font-size: 34px;
+}
+
+.footer {
+  position: sticky; 
+  height: 50px;
+  background-color: white;
 }
  

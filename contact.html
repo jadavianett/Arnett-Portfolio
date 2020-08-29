@@ -1,10 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!-->
 <html class="no-js">
-  <!--<![endif]-->
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -16,6 +11,7 @@
     <link rel="stylesheet" href="./Assets/css/style.css" />
   </head>
 
+ <!-- nav bar incl. active nav link to show current page -->
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="#">Jada Arnett</a>
@@ -41,6 +37,8 @@
       </div>
     </nav>
 
+    <!-- container with row and columns for forms -->
+<main>
     <div class="container">
       <div class="row">
         <div class="col-md-9 card">
@@ -56,8 +54,9 @@
                 <input class="form-control" type="text" placeholder="E-mail" />
                 <br />
                 <p>Message</p>
+                <!-- form-group class used here to have 5 rows for a larger text area for message (messages are longer than just names or e-mails) -->
                 <div class="form-group">
-                  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
+                  <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Message"></textarea>
                 </div>
                 <br />
                 <input class="btn btn-primary" type="submit" value="Submit">
@@ -67,5 +66,6 @@
         </div>
       </div>
     </div>
+  </main>
   </body>
 </html>
