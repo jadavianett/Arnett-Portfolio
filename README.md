@@ -19,4 +19,4 @@ Link to deployed website: https://jadavianett.github.io/Arnett-Responsiveness-Po
 Link to Github repository: https://github.com/jadavianett/Arnett-Responsiveness-Portfolio 
 
 ## Screenshot of Deployed Application 
-![alt text](./Assets/images/screenshot.png "Home Page")
+![alt text](./Assets/Images/screenshot.png "Home Page")
