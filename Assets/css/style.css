@@ -40,12 +40,32 @@ h1 {
   font-size: 34px;
 }
 
-/* footer styling */
-.footer-copyright { 
+
+/* #sticky-footer {
+  flex-shrink: none;
   height: 50px;
   border-top: solid 5px #30bbbb;
-  min-height: 3vh;
-  max-height: 6vh;
+  /* min-height: 3vh;
+  max-height: 6vh; 
+  background-color: rgb(90, 88, 88)
+} 
+*/
+ 
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-top: solid 5px #30bbbb;
+  /* Set the fixed height of the footer here */
+  height: 50px;
   background-color: rgb(90, 88, 88);
 }
- 

@@ -12,7 +12,7 @@ In order to create the responsive framework needed, I employed Bootstrap. Throug
 Finally, I employed CSS to provide the styling for my page. Elements like the background color, background image, fonts, image sizes, and footer styling are all controlled by targeting the classes in the HTML. 
 
 ## Acknowledgements 
-I was able to complete this assignment in part due to the expertise of my fellow classmates Jonathan Canales, Jason Ozulumba, and Alexander Fleming! Being able to bounce ideas off of a group with a little bit more coding experience and hearing how they worked through problems helped me to learn how to frame questions and learn a lot of new techniques in general! 
+I was able to complete this assignment in part due to the expertise of my fellow classmates Jonathan Canales, Jason Ozulumba, and Alexander Fleming! Being able to bounce ideas off of a group with a little bit more coding experience and hearing how they worked through problems helped me to learn how to frame questions and learn a lot of new techniques in general!  
 
 ## Links 
 Link to deployed website: 
