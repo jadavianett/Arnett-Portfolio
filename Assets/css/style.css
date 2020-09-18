@@ -1,7 +1,7 @@
 
 /* background color for nav bar */
 .bg-light {
-  background-color: #30bbbb !important;
+  background-color: #d6bbf5 !important;
 }
 
 /* image for site background */
@@ -24,20 +24,23 @@ body {
 /* changes styling of button to match site theme */
 .btn-primary {
   color: #fff;
-  background-color: #30bbbb;
-  border-color: #30bbbb;
+  background-color: #d6bbf5;
+  border-color: #d6bbf5;
 }
 
 /* update heading color and font */
 h1 {
-  color: #30bbbb;
-  font-family: "Playfair Display", serif;
+  color: #d6bbf5;
+  font-family: 'Source Code Pro', monospace;
 }
 
 /* styling for navbar */
 .navbar-brand {
-  font-family: "Playfair Display", serif;
+  font-family: 'Source Code Pro', monospace;
   font-size: 34px;
+}
+h5 {
+  font-family: 'Source Code Pro', monospace;
 }
 
  
@@ -54,8 +57,12 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  border-top: solid 5px #30bbbb;
+  border-top: solid 5px #d6bbf5;
  
   height: 50px;
   background-color: rgb(90, 88, 88);
+}
+
+.card-portfolio {
+  text-align: center;
 }
