@@ -1,4 +1,4 @@
-# Unit 2 Responsiveness Portfolio
+# Portfolio
 
 Welcome to my Responsiveness Portfolio! I have built a responsive, styled, basic web portfolio using HTML, CSS and Bootstrap. 
 
