@@ -15,8 +15,8 @@ Finally, I employed CSS to provide the styling for my page. Elements like the ba
 I was able to complete this assignment in part due to the expertise of my fellow classmates Jonathan Canales, Jason Ozulumba, and Alexander Fleming! Being able to bounce ideas off of a group with a little bit more coding experience and hearing how they worked through problems helped me to learn how to frame questions and learn a lot of new techniques in general!  
 
 ## Links 
-Link to deployed website: https://jadavianett.github.io/Arnett-Responsiveness-Portfolio/ 
-Link to Github repository: https://github.com/jadavianett/Arnett-Responsiveness-Portfolio 
+Link to deployed website: https://github.com/jadavianett/Arnett-Portfolio 
+Link to Github repository: https://jadavianett.github.io/Arnett-Portfolio/
 
 ## Screenshot of Deployed Application 
 ![alt text](./Assets/Images/screenshot.png "Home Page")
